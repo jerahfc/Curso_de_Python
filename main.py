@@ -1,1 +1,1 @@
-print("Olá, mundo! Meu primeiro projeto com Git 🚀")
+print("Olá, mundo! Meu primeiro projeto com Git, ihulll!")
