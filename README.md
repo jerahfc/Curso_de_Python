@@ -6,7 +6,9 @@ This is my first repository, created while I'm learning programming and version 
 
 ## 🧪 Tecnologias e/ou Ferramentas Utilizadas
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54): Linguagem principal.
+
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white): Para versionamento e hospedagem do código.
+
 * **VS Code**: Editor de código.
 
 ## 📝 O que este script faz?
