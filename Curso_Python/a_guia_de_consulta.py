@@ -106,3 +106,29 @@ try:
     calculo_impossivel = 10 / 0
 except ZeroDivisionError:
     print("Opa! O Python não consegue dividir números por zero.")
+
+    # --- 10. FORMATAÇÃO DE TEXTOS COM F-STRINGS ---
+# A forma moderna, rápida e recomendada de "injetar" variáveis em textos.
+# Basta colocar um 'f' minúsculo antes da primeira aspa e escrever 
+# a variável direto dentro das chaves { }.
+
+marca_cafe = "Orfeu"
+metodo_preparo = "Moka"
+quantidade_xicaras = 3
+
+# Exemplo básico: juntando texto e variáveis de forma natural
+mensagem = f"Vou preparar {quantidade_xicaras} xícaras de café {marca_cafe} na {metodo_preparo}."
+print(mensagem)
+
+
+# Dica Extra 1: Formatação de Dinheiro / Casas Decimais
+# O :.2f diz ao Python para mostrar o número (float) com exatamente 2 casas decimais.
+preco_pacote = 28.9
+mensagem_preco = f"O pacote de 250g custa R$ {preco_pacote:.2f}."
+print(mensagem_preco) # Vai imprimir R$ 28.90 em vez de R$ 28.9
+
+
+# Dica Extra 2: Operações Matemáticas Diretas
+# Você pode fazer contas ou executar funções diretamente dentro das chaves!
+mensagem_total = f"Se eu comprar 2 pacotes, vou gastar R$ {preco_pacote * 2:.2f}."
+print(mensagem_total)
