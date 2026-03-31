@@ -8,3 +8,14 @@ str         # Valores Varactere ou String. ---> Ex: "Olá", "7.5", " "
 #print("A soma vale", S)
 #print("A soma vale, {}".format(S))
 
+n1 = int(input("digite um valor: "))
+n2 = int(input("digite um valor: "))
+s = n1 + n2
+print("A soma vale", s)
+
+#------------DESAFIO RÁPIDO------------------------------------------------------
+
+n1 = int(input("digite um valor: "))
+n2 = int(input("digite outro valor: "))
+s = n1 + n2
+print("A soma entre ", n1, "e", n2, "é", s)
