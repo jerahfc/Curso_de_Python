@@ -1,6 +1,6 @@
-# 🐍 Repositório de estudos - Práticas em Python
+# 🐍 Curso de Python - Práticas!
 
-Bem-vindo ao meu repositório de estudos! Este espaço foi criado para centralizar todos os meus exercícios, testes e pequenos projetos desenvolvidos enquanto aprendo a linguagem **Python**.
+Bem-vindo ao meu repositório de estudos em Python! Este espaço foi criado para centralizar todas as minhas aulas, meus exercícios, desafios e pequenos projetos desenvolvidos enquanto aprendo a linguagem **Python**.
 
 ## 🎯 Objetivo
 O foco principal deste repositório é a **prática constante**. Aqui, aplicarei conceitos fundamentais e avançados, transformando teoria em scripts funcionais.
